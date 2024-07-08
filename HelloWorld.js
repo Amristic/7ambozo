@@ -5,4 +5,4 @@ class HelloWorld {
 }
 
 let newWorld = new HelloWorld;
-newWorld.printHelloWorld();
+newITI.printHelloWorld();
