@@ -1,8 +1,8 @@
 class HelloJS {
     printHelloJS = function () {
-        console.log("Hello World!");
+        console.log("Hello JS!");
     }
 }
 
 let newJS = new HelloJS;
-newITI.printHelloWorld();
+newJS.printHelloJS();
